@@ -1,0 +1,7 @@
+Name                Price               Rent                
+PUBG                1500                700                 
+ANGRY BIRDS         1000                500                 
+CALL OF DUTY        3500                600                 
+GOD OF WAR          5000                900                 
+SPIDERMAN           3000                700 
+               
